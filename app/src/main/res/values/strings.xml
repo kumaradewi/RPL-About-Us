@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">aboutus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="alamat">Jalan Telekomunikasi No.69 Kelurahan Sukabirus, Kecamatan Dayeuh Kolot, Kabupaten Bndung, Jawa Barat</string>
+    <string name="about">Aplikasi ini akan dirancang dan dikembangkan dengan system mobile yang ramah dan sesuai untuk kebutuhan pengguna. MY ASSISTANT ditujukan kepada siapapun yang membutuhkan bantuan jasa untuk membantu dalam pekerjaan yang sesuai dengan kebutuhan pelanggan. Dengan dirancangnya aplikasi ini sesuai dengan kebutuhan pengguna,maka akan menarik perhatian pelanggan dan meningkatkan jumlah penjualan.</string>
+</resources>
